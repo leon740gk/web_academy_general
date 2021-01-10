@@ -1,0 +1,242 @@
+1. Почему Python ?
+	• Программирование. Что это на самом деле?  (Скрин)
+	• Сферы применения, особенности Python (Скрин)
+	• Плюсы и минусы Python (
+		---> https://brainskills.ru/blog/plyusy-i-minusy-python/
+	)
+	• Интерпретатор и IDE 
+	• Переменные и ссылочная модель 
+	• Базовые типы данных (числа, строки, логические) (
+		---> https://realpython.com/python-data-types/
+	)
+	• Арифметические и логические операции (
+		---> https://www.programiz.com/python-programming/operators
+	)
+
+2. Условные и циклические конструкции
+	• Понятие алгоритма (
+		---> https://inf1.info/algorithmbasics
+	)
+	• Виды алгоритмов (
+		---> https://sites.google.com/site/algoritmyvidyisvojstva/materialy/sposoby-opisania-vidy-algoritmov
+	)
+	• Условные конструкции (
+		---> https://all-python.ru/osnovy/uslovnye-operatory.html
+	)
+	• Циклические конструкции (
+		---> https://python-scripts.com/loops-for-while
+	)
+
+3. Версионирование исходного когда
+	• Понятие системы контроля версий и репозитория (
+		---> https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9
+	)
+	• Git, Git Flow (основные операции работы с git)
+	• Github
+	• Open Source, виды лицензий (
+		---> https://habr.com/ru/post/267473/, https://wiki.merionet.ru/servernye-resheniya/54/sravnenie-open-source-licenzij/
+	)
+
+4. Контейнеры, множества о отображения
+	• Списки и кортежи
+	• Множества. Основные операции с множествами
+	• Словари
+	• Включения (
+		---> https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
+		---> https://www.geeksforgeeks.org/comprehensions-in-python/
+	)
+
+5. Функции
+	• Функции как объекты. DRY. (
+		---> http://zetcode.com/lang/python/functions/
+	)
+	• Области видимости. Замыкание (
+		---> https://data-flair.training/blogs/python-variable-scope/
+		---> https://www.geeksforgeeks.org/namespaces-and-scope-in-python/
+		---> https://www.programiz.com/python-programming/namespace
+		---> https://www.programiz.com/python-programming/closure
+		---> http://www.trytoprogram.com/python-programming/python-closures/
+	)
+	• Рекурсия. Call stack. (
+		---> https://realpython.com/python-thinking-recursively/
+		---> https://www.geeksforgeeks.org/recursion-in-python/
+		---> Лекция Тимофея по сортировкам (алгоритмы сортировки)
+		---> https://stackoverflow.com/questions/1156023/print-current-call-stack-from-a-method-in-python-code
+	)
+
+6. Функциональное программирование
+	• Встроенные функции (zip, map, filter, sorted) (
+		---> https://dev.to/codespent/understanding-map-filter-and-zip-in-python-3ifn
+		---> https://www.programiz.com/python-programming/methods/built-in/sorted
+		
+	)
+	• lambda-функции (
+		---> https://stackoverflow.com/questions/13669252/what-is-key-lambda/13669294
+		---> https://www.programiz.com/python-programming/anonymous-function
+	)
+	• Декораторы (
+		---> evernote
+	)
+	• Mодуль functools (
+		---> https://pythonworld.ru/moduli/modul-functools.html
+		---> https://www.geeksforgeeks.org/functools-module-in-python/
+	)
+
+7. Итераторы и генераторы
+	• Итератор. Итериуемый объект (
+		---> https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-and-iteration
+	)
+	• Функция генератор (
+		---> https://www.programiz.com/python-programming/generator
+		---> https://realpython.com/introduction-to-python-generators/
+	)
+	• Выражение генератор (
+		---> https://www.programiz.com/python-programming/generator
+		---> https://realpython.com/introduction-to-python-generators/
+	)
+	• Сопрограммы (coroutines) (
+		---> https://www.geeksforgeeks.org/coroutine-in-python/
+		---> https://stackabuse.com/coroutines-in-python/
+		---> https://realpython.com/async-io-python/ ???
+	)
+
+8. Модули и библиотеки
+	• Модули (
+		---> https://realpython.com/python-modules-packages/
+	)
+	• Пакеты
+	• Циклические импорты (
+		---> https://stackabuse.com/python-circular-imports/
+		---> https://stackoverflow.com/questions/22187279/python-circular-importing
+		---> https://stackoverflow.com/questions/7336802/how-to-avoid-circular-imports-in-python/37126790#37126790
+	)
+	• Виртуальное окружение. Виртуальное окружение (pip, virtualenv, pipenv) (
+		---> https://realpython.com/python-virtual-environments-a-primer/
+		---> https://realpython.com/pipenv-guide/
+	)
+
+
+9. 10. Основы ООП
+	• Классы, объекты (
+		---> https://pythonguide.readthedocs.io/en/latest/python/oops.html
+	)
+	• Осноные принципы ООП (наследование, инкапсуляция, полиморфизм)
+	• "Magic methods"
+	• Приватные и защищенные аттрибуты класса (
+		---> https://pythonguide.readthedocs.io/en/latest/python/property.html
+	)
+	• Декораторы классов (staticmethod, classmethod, property) (
+		---> https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner
+		---> https://pythonguide.readthedocs.io/en/latest/python/property.html
+		---> https://www.tutorialsteacher.com/python/property-function
+
+	)
+	• Классы старого типа и MRO (
+		--->  https://coderoad.ru/54867/%D0%92-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B8-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE-%D1%81%D1%82%D0%B8%D0%BB%D1%8F-%D0%B8-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%81%D1%82%D0%B8%D0%BB%D1%8F-%D0%B2-Python
+	)
+	• __slots__ и super() (
+		---> https://www.programiz.com/python-programming/methods/built-in/super
+		---> https://realpython.com/python-super/
+		---> https://stackoverflow.com/questions/472000/usage-of-slots
+	)
+	• Метаклассы (
+		---> evernote
+	)
+
+11. Стандартная библиотека
+	• Модули os, sys
+	• Модуль itertools
+	• Модуль collections
+	• Модуль re
+
+12. Работа с файлами. Сериализация. Обработка ошибок
+	• Файлы. Работа с файлами (
+		---> http://pythonicway.com/python-fileio
+		---> https://all-python.ru/osnovy/rabota-s-fajlami.html
+	)
+	• Модуль io (
+		---> https://www.geeksforgeeks.org/stringio-module-in-python/
+	)
+	• Менеджеры контекста (
+		---> https://www.geeksforgeeks.org/context-manager-in-python/
+		---> https://stackabuse.com/python-context-managers/
+	)
+	• Сериализация. pickle, shelve, json (
+		---> https://realpython.com/python-pickle-module/
+		---> https://metanit.com/python/tutorial/4.6.php
+		---> https://stackoverflow.com/questions/4103430/what-is-the-difference-between-pickle-and-shelve
+		---> https://www.programiz.com/python-programming/json
+		---> https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+	)
+	• Обработка ошибок (
+		---> https://www.programiz.com/python-programming/exception-handling
+		---> https://www.tutorialspoint.com/python/python_exceptions.htm
+		---> https://realpython.com/python-exceptions/
+		---> https://www.python-ds.com/python-3-exception-hierarchy
+	)
+
+
+13. Тестирование
+	• Виды тестирования (
+		---> https://ru.hexlet.io/courses/advanced_python/lessons/python_testing_introduction/theory_unit
+		---> https://habr.com/ru/company/otus/blog/433358/
+		---> https://realpython.com/python-testing/
+	)
+	• Модуль unittest (
+		---> https://docs.python.org/3/library/unittest.html
+		---> https://habr.com/ru/company/otus/blog/481806/
+		---> https://ru.hexlet.io/courses/advanced_python/lessons/python_testing_unittest/theory_unit
+		---> https://pythonworld.ru/moduli/modul-unittest.html
+		---> https://www.journaldev.com/15899/python-unittest-unit-test-example
+	)
+	• Модули doctest, pytest (
+		---> https://www.geeksforgeeks.org/testing-in-python-using-doctest-module/
+		---> https://docs.python.org/3/library/doctest.html
+		---> https://habr.com/ru/post/448782/
+		---> https://habr.com/ru/post/269759/
+		---> https://realpython.com/pytest-python-testing/#pytest-cov
+	)
+	• Code coverage (
+		---> https://realpython.com/pytest-python-testing/#pytest-cov
+		---> https://coverage.readthedocs.io/en/coverage-5.3/
+		---> https://pytest-cov.readthedocs.io/en/latest/
+	)
+
+14. Введение в базы данных
+	• Основы РСУБД (
+		---> https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm
+		---> https://habr.com/ru/company/mailru/blog/266811/
+	)
+	• CREATE DATABASE, CREATE TABLE (
+		---> https://www.tutorialspoint.com/postgresql/postgresql_environment.htm
+	)
+	• SELECT, INSERT, UPDATE, DELETE, JOIN (
+		---> https://www.tutorialspoint.com/postgresql/postgresql_environment.htm
+	)
+	• ORM: Sqlalchemy (
+		---> https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
+	)
+	• NoSQL (
+		---> https://www.guru99.com/nosql-tutorial.html
+		---> https://www.trustradius.com/nosql-databases
+	)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
