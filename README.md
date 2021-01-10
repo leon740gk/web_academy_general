@@ -13,3 +13,7 @@
 ## Code training
 1. [Checkio.org](https://checkio.org/)
 2. [codewars](https://www.codewars.com/)
+
+## Final projects
+1. [42 project ideas](https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/#Python_Project_Ideas_Conclusion)
+2. [Expert project](https://www.evernote.com/shard/s267/sh/d49634de-e449-4f3e-b3b4-30f8918245fc/d864c25da288cb3dcb1a873eb9e94a90)
