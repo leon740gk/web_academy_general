@@ -4,14 +4,15 @@
 	• Плюсы и минусы Python (
 		---> https://brainskills.ru/blog/plyusy-i-minusy-python/
 	)
-	• Интерпретатор и IDE 
-	• Переменные и ссылочная модель 
+	• Интерпретатор и IDE (https://pythonchik.ru/osnovy/kak-rabotaet-python-interpretator)
 	• Базовые типы данных (числа, строки, логические) (
 		---> https://realpython.com/python-data-types/
 	)
 	• Арифметические и логические операции (
 		---> https://www.programiz.com/python-programming/operators
+		---> https://pythonru.com/osnovy/operatory-python
 	)
+	• Переменные и ссылочная модель. Garbage collector.
 
 2. Условные и циклические конструкции
 	• Понятие алгоритма (
